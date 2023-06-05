@@ -1,0 +1,292 @@
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.AssemblyInfo.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\staticwebassets\CarMVC.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\staticwebassets\CarMVC.StaticWebAssets.xml
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\scopedcss\bundle\CarMVC.styles.css
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.TagHelpers.input.cache
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.TagHelpers.output.cache
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.RazorCoreGenerate.cache
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Brand\Create.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Brand\Delete.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Brand\Details.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Brand\Edit.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Brand\Index.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\CarClass\Create.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\CarClass\Delete.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\CarClass\Details.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\CarClass\Edit.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\CarClass\Index.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\CarStatus\Create.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\CarStatus\Delete.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\CarStatus\Details.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\CarStatus\Edit.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\CarStatus\Index.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Create.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Delete.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Details.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Edit.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Fuel\Create.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Fuel\Delete.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Fuel\Details.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Fuel\Edit.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Fuel\Index.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Model\Create.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Model\Delete.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Model\Details.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Model\Edit.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Model\Index.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Town\Create.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Town\Delete.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Town\Details.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Town\Edit.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Town\Index.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Transmission\Create.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Transmission\Delete.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Transmission\Details.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Transmission\Edit.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Transmission\Index.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.dll
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\ref\CarMVC.dll
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.pdb
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarMVC.exe
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarMVC.deps.json
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarMVC.runtimeconfig.json
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarMVC.runtimeconfig.dev.json
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarMVC.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\ref\CarMVC.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarMVC.pdb
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarMVC.Views.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarMVC.Views.pdb
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\ApplicationService.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Data.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Repository.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\ApplicationService.pdb
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Data.pdb
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Repository.pdb
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.Views.pdb
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.csproj.CopyComplete
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\CarMVC.genruntimeconfig.cache
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Data.dll.config
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarWebAPI.deps.json
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarWebAPI.runtimeconfig.json
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarWebAPI.runtimeconfig.dev.json
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarWebAPI.exe
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarWebAPI.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\CarWebAPI.pdb
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Shared\Login.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.Owin.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\homework\CarMVC\bin\Debug\net5.0\Owin.dll
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Indexx.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Details - Copy.cshtml.g.cs
+C:\Users\user\Desktop\homework\CarMVC\obj\Debug\net5.0\Razor\Views\Car\MyAds.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarWebAPI.deps.json
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarWebAPI.runtimeconfig.json
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarWebAPI.runtimeconfig.dev.json
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarWebAPI.exe
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarMVC.exe
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarMVC.deps.json
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarMVC.runtimeconfig.json
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarMVC.runtimeconfig.dev.json
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarMVC.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\ref\CarMVC.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarMVC.pdb
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarMVC.Views.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarMVC.Views.pdb
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.Owin.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Owin.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\ApplicationService.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarWebAPI.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Data.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Repository.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\CarWebAPI.pdb
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\ApplicationService.pdb
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Data.pdb
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Data.dll.config
+C:\Users\user\Desktop\Distributed Applications\CarMVC\bin\Debug\net5.0\Repository.pdb
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.AssemblyInfo.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\staticwebassets\CarMVC.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\staticwebassets\CarMVC.StaticWebAssets.xml
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\scopedcss\bundle\CarMVC.styles.css
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.TagHelpers.input.cache
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.TagHelpers.output.cache
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.RazorCoreGenerate.cache
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Brand\Create.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Brand\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Brand\Details.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Brand\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Brand\Index.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\CarClass\Create.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\CarClass\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\CarClass\Details.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\CarClass\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\CarClass\Index.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\CarStatus\Create.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\CarStatus\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\CarStatus\Details.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\CarStatus\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\CarStatus\Index.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Create.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Details - Copy.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Details.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Index.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Car\Indexx.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Car\MyAds.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Fuel\Create.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Fuel\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Fuel\Details.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Fuel\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Fuel\Index.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Model\Create.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Model\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Model\Details.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Model\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Model\Index.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Shared\Login.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Town\Create.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Town\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Town\Details.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Town\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Town\Index.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Transmission\Create.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Transmission\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Transmission\Details.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Transmission\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\Transmission\Index.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.Views.pdb
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.csproj.CopyComplete
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\ref\CarMVC.dll
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.pdb
+C:\Users\user\Desktop\Distributed Applications\CarMVC\obj\Debug\net5.0\CarMVC.genruntimeconfig.cache
