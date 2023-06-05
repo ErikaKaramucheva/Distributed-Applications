@@ -1,0 +1,44 @@
+﻿@model CarMVC.Models.CarStatusVM;
+
+@{ ViewData["Title"] = "Детайли"; }
+
+<h1 class="text-center">Детайли</h1>
+
+<div>
+    <hr />
+    <dl class="row text-center">
+        <dt class="col-sm-2 text-center">
+            Статус:
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            Създаден на:
+        </dt>
+        <dd class="col-sm-10">
+            @Convert.ToDateTime(@Model.CreatedOn)
+        </dd>
+        <dt class="col-sm-2">
+            Последна промяна:
+        </dt>
+        <dd class="col-sm-10">
+            @Convert.ToDateTime(@Model.UpdatedOn)
+        </dd>
+        <dt class="col-sm-2">
+            Създаден от:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.UserName(Model.CreatedBy)
+        </dd>
+        <dt class="col-sm-2">
+            Променен от:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.UserName(Model.CreatedBy)
+        </dd>
+
+    </dl>
+</div>
+<div class="justify-content-center text-right">
+    <a asp-action="Index">Назад</a>
+</div>

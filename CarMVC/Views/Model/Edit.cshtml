@@ -1,0 +1,47 @@
+﻿@model CarMVC.Models.ModelVM;
+@using Data.Entities;
+@using CarMVC.ExtensionMethods;
+@{ User loggedUser = this.ViewContext.HttpContext.Session.GetObject<User>("loggedUser"); }
+@{ ViewData["Title"] = "Промени"; }
+<h1 class="text-center">Промени</h1>
+<br />
+<hr />
+@if (Model.Brand?.Count() > 0)
+{
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger "></div>
+            <div class="form-group ">
+                <label asp-for="Name" class="control-label">Име на модела:</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+
+                <br />
+                <label asp-for="Brand_id" class="control-label">Марка</label>
+                <select asp-for="Brand_id" class="form-control">
+                    @foreach (var brands in Model.Brand)
+                    {
+            <option value="@brands.Id">@brands.Name</option>
+}
+                </select>
+                <span asp-validation-for="Brand_id" class="text-danger"></span>
+                <p class="d-none">
+                    <label asp-for="UpdatedBy" class="control-label">Линк към изображение:</label>
+                    <input asp-for="UpdatedBy" class="form-control" value="@loggedUser.Id" />
+                    <span asp-validation-for="UpdatedBy" class="text-danger"></span>
+                </p>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Промени" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>}
+<div class="text-right">
+    <a asp-action="Index">Назад</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

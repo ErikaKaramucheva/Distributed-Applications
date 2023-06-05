@@ -1,0 +1,58 @@
+﻿@model CarMVC.Models.CarVM;
+@using Data.Entities;
+@using CarMVC.ExtensionMethods;
+@{ User loggedUser = this.ViewContext.HttpContext.Session.GetObject<User>("loggedUser"); }
+@{ ViewData["Title"] = "Детайли";
+}
+
+<h1 class="text-center">Детайли</h1>
+<div>
+    <hr />
+    @if (Model != null)
+    {
+<div id="main-content" class="blog-page">
+    <div class="container">
+        <div class="row clearfix">
+            <div class="col-lg-8 col-md-12 offset-md-2">
+                <div class="card single_post">
+                    <div class="body">
+                        <div class="img-post">
+                            <img class="d-block img-fluid mx-auto" src="@Model.ImageURL" alt="@Model.BrandName(Model.Brand_id) @Model.ModelName(Model.Model_id)">
+                        </div>
+                        <h3 class="text-center" style="padding: 10px">
+                            @Model.BrandName(Model.Brand_id)
+                            @Model.ModelName(Model.Model_id)
+                            <h5 class="text-center" style="margin-top: 20px">Цена: @Model.Price</h5>
+                            <h5 class="text-center" style="margin-top: 20px">Състояние: @Model.StatusName(Model.CarStatus_id)</h5>
+                            <h5 class="text-center" style="margin-top: 20px">Трансмисия: @Model.TransmissionName(Model.Transmission_id)</h5>
+                            <h5 class="text-center" style="margin-top: 20px">Гориво: @Model.FuelName(Model.Fuel_id)</h5>
+                            <h5 class="text-center" style="margin-top: 20px">Клас: @Model.ClassName(Model.Class_id)</h5>
+                            <h5 class="text-center" style="margin-top: 20px">Цвят: @Model.Color</h5>
+                            <h5 class="text-center" style="margin-top: 20px">Километри: @Model.Mileage</h5>
+                            <h5 class="text-center" style="margin-top: 20px">Година на производство: @Model.Year</h5>
+                            <h5 class="text-center" style="margin-top: 20px">Град: @Model.TownName(Model.Town_id)</h5>
+                            <h5 class="text-center" style="margin-top: 20px">Телефон за контакт: @Model.GetUserPhone(Model.User_id)</h5>
+                            <h5 class="text-center" style="margin-top: 20px">Имейл: @Model.GetUserEmail(Model.User_id)</h5>
+                            <h5 style="margin-top: 30px">Описание: @Model.Description</h5>
+                            <h5 style="margin-top: 30px">Създаден на:  @Convert.ToDateTime(@Model.CreatedOn)</h5>
+                            <h5 style="margin-top: 30px">Създаден от: @Model.UserName(Model.CreatedBy)</h5>
+                            <h5 style="margin-top: 30px">Последна промяна: @Convert.ToDateTime(@Model.UpdatedOn)</h5>
+                            <h5 style="margin-top: 30px">Променен от: @Model.UserName(Model.UpdatedBy)</h5>
+                            <br />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>}
+
+    @if (loggedUser!=null && loggedUser.Id == Model.User_id)
+            {
+<div class="text-right">
+    @Html.ActionLink("Промени", "Edit", new { id = @TempData["id"] }) |
+    @Html.ActionLink("Изтрий", "Delete", new { id = @TempData["id"] })
+</div>
+            }
+<div class="justify-content-center">
+    <a asp-action="Index">Назад</a>
+</div>

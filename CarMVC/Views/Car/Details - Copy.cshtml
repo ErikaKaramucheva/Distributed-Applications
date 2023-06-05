@@ -1,0 +1,122 @@
+﻿@model CarMVC.Models.CarVM;
+
+@{ ViewData["Title"] = "Детайли"; }
+
+<h1 class="text-center">Детайли</h1>
+
+<div>
+    <h4 class="text-center">Детайли</h4>
+    <hr />
+    <dl class="row text-center">
+        <dt class="col-sm-2 text-center">
+            Модел на автомобила:
+        <dd class="col-sm-10">
+            @Model.ModelName(Model.Model_id)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Марка на автомобила:
+        <dd class="col-sm-10">
+            @Model.BrandName(Model.Brand_id)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Цвят на автомобила:
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Color)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Цена:
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Километри:
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Mileage)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Година на производство:
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Year)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Гориво:
+        <dd class="col-sm-10">
+            @Model.FuelName(Model.Fuel_id)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Клас:
+        <dd class="col-sm-10">
+            @Model.ClassName(Model.Class_id)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Клас:
+        <dd class="col-sm-10">
+            @Model.ClassName(Model.CarStatus_id)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Трансмисия:
+        <dd class="col-sm-10">
+            @Model.TransmissionName(Model.Transmission_id)
+        </dd>
+
+
+        <dt class="col-sm-2 text-center">
+            Статус:
+        <dd class="col-sm-10">
+            @Model.StatusName(Model.CarStatus_id)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Описание:
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Изображение:
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ImageURL)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Град:
+        <dd class="col-sm-10">
+            @Model.TownName(Model.Town_id)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Телефон за връзка:
+        <dd class="col-sm-10">
+            @Model.GetUserPhone(Model.UpdatedBy)
+        </dd>
+        <dt class="col-sm-2 text-center">
+            Имейл:
+        <dd class="col-sm-10">
+            @Model.GetUserEmail(Model.UpdatedBy)
+        </dd>
+        <dt class="col-sm-2">
+            Създаден на:
+        </dt>
+        <dd class="col-sm-10">
+            @Convert.ToDateTime(@Model.CreatedOn)
+        </dd>
+        <dt class="col-sm-2">
+            Последна промяна:
+        </dt>
+        <dd class="col-sm-10">
+            @Convert.ToDateTime(@Model.UpdatedOn)
+        </dd>
+        <dt class="col-sm-2">
+            Създаден от:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.UserName(Model.CreatedBy)
+        </dd>
+        <dt class="col-sm-2">
+            Променен от:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.UserName(Model.CreatedBy)
+        </dd>
+
+    </dl>
+</div>
+<div class="justify-content-center">
+    <a asp-action="Index">Назад</a>
+</div>

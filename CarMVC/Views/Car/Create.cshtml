@@ -1,0 +1,123 @@
+﻿@using Data.Entities;
+@using CarMVC.ExtensionMethods;
+@model CarMVC.Models.CarVM;
+@{ User loggedUser = this.ViewContext.HttpContext.Session.GetObject<User>("loggedUser"); }
+@{ ViewData["Title"] = "Създай"; }
+
+<h1 class="text-center">Добави автомобил</h1>
+<br />
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Brand_id" class="control-label">Марка:</label>
+                <select asp-for="Brand_id" class="form-control">
+                    @foreach (var brand in Model.Brand)
+                    {
+        <option value="@brand.Id">@brand.Name</option>}
+                </select>
+                <span asp-validation-for="Color" class="text-danger"></span>
+                <a class="text-muted" href="@Url.Action("Index", "Brand")"> Не намираш своята марка в списъка? Добави я от тук -></a>
+                <br />
+                <label asp-for="Model_id" class="control-label">Модел:</label>
+                <select asp-for="Model_id" class="form-control">
+                    @foreach (var models in Model.Model)
+                    {
+        <option value="@models.Id">@models.Name</option>}
+                </select>
+                <span asp-validation-for="Model_id" class="text-danger"></span>
+                <a class="text-muted" href="@Url.Action("Index", "Model")"> Не намираш своя модел в списъка? Добави го от тук -></a>
+                <br />
+
+                <label asp-for="Color" class="control-label">Цвят:</label>
+                <input asp-for="Color" class="form-control" />
+                <span asp-validation-for="Color" class="text-danger"></span>
+                <br />
+                <label asp-for="Price" class="control-label">Цена:</label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+                <br />
+                <label asp-for="Mileage" class="control-label">Километри:</label>
+                <input asp-for="Mileage" class="form-control" />
+                <span asp-validation-for="Mileage" class="text-danger"></span>
+                <br />
+                <label asp-for="Year" class="control-label">Година на производство:</label>
+                <input asp-for="Year" class="form-control" />
+                <span asp-validation-for="Year" class="text-danger"></span>
+                <br />
+                <label asp-for="Fuel_id" class="control-label">Гориво:</label>
+                <select asp-for="Fuel_id" class="form-control">
+                    @foreach (var fuel in Model.Fuel)
+                    {
+        <option value="@fuel.Id">@fuel.Name</option>}
+                </select>
+                <span asp-validation-for="Fuel_id" class="text-danger"></span>
+                <a class="text-muted" href="@Url.Action("Index", "Fuel")"> Не намираш горивото в списъка? Добави го от тук -></a>
+                <br />
+                <label asp-for="Class_id" class="control-label">Клас на автомобила:</label>
+                <select asp-for="Class_id" class="form-control">
+                    @foreach (var carClass in Model.Class)
+                    {
+        <option value="@carClass.Id">@carClass.Name</option>
+}
+                </select>
+                <span asp-validation-for="Class_id" class="text-danger"></span>
+                <a class="text-muted" href="@Url.Action("Index", "CarClass")"> Не намираш своя клас в списъка? Добави го от тук -></a>
+                <br />
+                <label asp-for="CarStatus_id" class="control-label">Статус на автомобила:</label>
+                <select asp-for="CarStatus_id" class="form-control">
+                    @foreach (var carStatus in Model.Status)
+                    {
+        <option value="@carStatus.Id">@carStatus.Name</option>
+}
+                </select>
+                <span asp-validation-for="CarStatus_id" class="text-danger"></span>
+                <a class="text-muted" href="@Url.Action("Index", "CarStatus")"> Не намираш статуса на своя автомобил в списъка? Добави го от тук -></a>
+                <br />
+                <label asp-for="Transmission_id" class="control-label">Трансмисия:</label>
+                <select asp-for="Transmission_id" class="form-control">
+                    @foreach (var tran in Model.Transmission)
+                    {
+        <option value="@tran.Id">@tran.Name</option>}
+                </select>
+                <span asp-validation-for="Transmission_id" class="text-danger"></span>
+                <a class="text-muted" href="@Url.Action("Index", "Transmission")"> Не намираш желаната трансмисия в списъка? Добави я от тук -></a>
+                <br />
+                <label asp-for="Description" class="control-label">Описание:</label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+                <br />
+                <label asp-for="ImageURL" class="control-label">Линк към изображение:</label>
+                <input asp-for="ImageURL" class="form-control" />
+                <span asp-validation-for="ImageURL" class="text-danger"></span>
+                <p class="d-none">
+                    <label asp-for="CreatedBy" class="control-label">Линк към изображение:</label>
+                    <input asp-for="CreatedBy" class="form-control" value="@loggedUser.Id" />
+                    <span asp-validation-for="CreatedBy" class="text-danger"></span>
+                    <label asp-for="UpdatedBy" class="control-label">Линк към изображение:</label>
+                    <input asp-for="UpdatedBy" class="form-control" value="@loggedUser.Id" />
+                    <span asp-validation-for="UpdatedBy" class="text-danger"></span>
+                    <label asp-for="User_id" class="control-label">Линк към изображение:</label>
+                    <input asp-for="User_id" class="form-control" value="@loggedUser.Id" />
+                    <span asp-validation-for="User_id" class="text-danger"></span>
+                    <label asp-for="Town_id" class="control-label">Линк към изображение:</label>
+                    <input asp-for="Town_id" class="form-control" value="@loggedUser.Town_id" />
+                    <span asp-validation-for="Town_id" class="text-danger"></span>
+                </p>
+            </div>
+            <div class="form-group text-center">
+                <input type="submit" value="Създай" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="text-right">
+    <a asp-action="Index">Назад</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
