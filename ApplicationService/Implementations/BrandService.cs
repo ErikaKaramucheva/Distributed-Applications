@@ -116,7 +116,8 @@ namespace ApplicationService.Implementations
 			{
 				using (UnitOfWork unitOfWork = new UnitOfWork())
 				{
-					unitOfWork.BrandRepository.Delete(id);
+					Brand brand = unitOfWork.BrandRepository.GetByID(id);
+					unitOfWork.BrandRepository.Delete(brand);
 					unitOfWork.Save();
 				}
 				return true;

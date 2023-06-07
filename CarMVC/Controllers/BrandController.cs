@@ -204,13 +204,14 @@ namespace CarMVC.Controllers
 
                 using (var client = new HttpClient())
                 {
-                    client.BaseAddress = url;
+                    client.BaseAddress =new("https://localhost:44318/api/brand"); 
                     client.DefaultRequestHeaders.Accept.Clear();
                     client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
 
                     // make the request // Save or Update?
-                    HttpResponseMessage response = await client.DeleteAsync("brand/" + id);
+                    
+                    HttpResponseMessage response = await client.DeleteAsync("Brand/" + id);
                     if (response.IsSuccessStatusCode)
                     {
                         TempData["result"] = "Записът е премахнат успешно";

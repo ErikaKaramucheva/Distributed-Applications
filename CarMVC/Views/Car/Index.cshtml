@@ -20,12 +20,12 @@
     @foreach(var item in Model){
     <div class="row">
         <div class="col-md-4 offset-md-5">
-            <div class="card mb-3" style="width: 16rem">
+            <div class="card mb-3" style="width: 16rem; height: 23rem">
                 <img class="card-img-top" src="@item.ImageURL" alt="@item.Brand @item.Model">
                 <div class="card-body text-center">
                     <h5 class="card-title text-center">@item.BrandName(item.Brand_id)  @item.ModelName(item.Model_id)</h5>
                     <br />
-                    <h5 class="card-title text-center">@item.Price</h5>
+                    <h5 class="card-title text-center">@item.Price лв.</h5>
                     <a asp-controller="Car"
                        asp-action="Details"
                        asp-route-id="@item.Id"

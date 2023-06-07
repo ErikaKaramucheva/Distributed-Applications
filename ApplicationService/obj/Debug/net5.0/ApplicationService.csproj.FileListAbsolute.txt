@@ -19,3 +19,24 @@ C:\Users\user\Desktop\homework\ApplicationService\obj\Debug\net5.0\ref\Applicati
 C:\Users\user\Desktop\homework\ApplicationService\obj\Debug\net5.0\ApplicationService.pdb
 C:\Users\user\Desktop\homework\ApplicationService\obj\Debug\net5.0\ApplicationService.genruntimeconfig.cache
 C:\Users\user\Desktop\homework\ApplicationService\bin\Debug\net5.0\Data.dll.config
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\ApplicationService.deps.json
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\ApplicationService.runtimeconfig.json
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\ApplicationService.runtimeconfig.dev.json
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\ApplicationService.dll
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\ref\ApplicationService.dll
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\ApplicationService.pdb
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\Data.dll
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\Repository.dll
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\Repository.pdb
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\Data.pdb
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\bin\Debug\net5.0\Data.dll.config
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\obj\Debug\net5.0\ApplicationService.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\obj\Debug\net5.0\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\obj\Debug\net5.0\ApplicationService.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\obj\Debug\net5.0\ApplicationService.AssemblyInfo.cs
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\obj\Debug\net5.0\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\obj\Debug\net5.0\ApplicationService.csproj.CopyComplete
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\obj\Debug\net5.0\ApplicationService.dll
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\obj\Debug\net5.0\ref\ApplicationService.dll
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\obj\Debug\net5.0\ApplicationService.pdb
+C:\Users\user\Desktop\Distributed Applications\ApplicationService\obj\Debug\net5.0\ApplicationService.genruntimeconfig.cache
